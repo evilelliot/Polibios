@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocaranza/Documentos/C++/Polibios/src/Characters.hpp
+string
+-
+
+/home/ocaranza/Documentos/C++/Polibios/src/Polibios.cpp
+Polibios.hpp
+/home/ocaranza/Documentos/C++/Polibios/src/Polibios.hpp
+Characters.hpp
+/home/ocaranza/Documentos/C++/Polibios/src/Characters.hpp
+Types.hpp
+/home/ocaranza/Documentos/C++/Polibios/src/Types.hpp
+iostream
+-
+string
+-
+bits/stdc++.h
+-
+
+/home/ocaranza/Documentos/C++/Polibios/src/Polibios.hpp
+Characters.hpp
+/home/ocaranza/Documentos/C++/Polibios/src/Characters.hpp
+string
+-
+bits/stdc++.h
+-
+
+/home/ocaranza/Documentos/C++/Polibios/src/Types.hpp
+string
+-
+

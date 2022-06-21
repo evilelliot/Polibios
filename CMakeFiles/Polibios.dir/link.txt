@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Polibios.dir/main.cpp.o CMakeFiles/Polibios.dir/src/Polibios.cpp.o CMakeFiles/Polibios.dir/src/Utils.cpp.o  -o bin/Polibios 
